@@ -7,6 +7,6 @@ we have also discussions linked in discord suggestions channel [here](https://di
 
 report them [here](https://github.com/wowtrack/feedback/issues)
 
-## ideas
+## ideas, suggestions, feedbacks
 
 submit them [here](https://github.com/wowtrack/feedback/discussions)
