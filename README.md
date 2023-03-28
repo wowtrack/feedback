@@ -1,12 +1,27 @@
-# feedback
+![wowtrack.gg](https://wowtrack.gg/_next/image?url=%2Fimages%2Flogo.png&w=256&q=75)
 
-feedback repository for [wowtrack.gg](https://wowtrack.gg)
-we have also discussions linked in discord suggestions channel [here](https://discord.com/channels/1044608885811597364/1070860703927382067).
+#### What is this site for?
 
-## bug reports
+[wowtrack.gg](https://wowtrack.gg/) is a fansite dedicated to World of Warcraft, offering a range of guides, tools, and data trackers. As the site is currently undergoing heavy development, you can expect even more features and content in the near future.
 
-report them [here](https://github.com/wowtrack/feedback/issues)
+#### What is this site repo for?
 
-## ideas, suggestions, feedbacks
+This is the official feedback & issues repository for the project.
 
-submit them [here](https://github.com/wowtrack/feedback/discussions)
+#### 🐛 I want to report a bug
+
+You can report them [here](https://github.com/wowtrack/feedback/issues).
+
+#### 💡 I have an idea / feedback
+
+There are welcome in [here](https://github.com/wowtrack/feedback/discussions).
+
+#### 💬 Discussions & Discord
+
+We have a [discord server](https://discord.gg/wN9SvhPQTB) for discussions.
+
+#### 📧 I want to contact you
+
+If you need to contact anything beyond these, check the [contact page](https://wowtrack.gg/contact).
+
+
