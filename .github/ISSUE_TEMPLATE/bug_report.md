@@ -26,7 +26,7 @@ If applicable, add screenshots to help explain your problem.
 Add any other context about the problem here.
 
 **Debug Data**
-Paste debug data from "Create Bug Report" tool from [profile page](/account/profile):
+Paste debug data from "Create Bug Report" tool from [profile page](https://wowtrack.gg/account/profile):
 
 ```
 Paste debug data here.
